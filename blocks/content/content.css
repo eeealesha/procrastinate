@@ -1,0 +1,12 @@
+.content {
+    background-color: #323131;
+    color: white;
+    max-width: 540px;
+    height: 100%;
+    margin: 0 auto;
+    font-family: "Suisse";
+    box-sizing: border-box;
+    padding: 36px;
+    max-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
