@@ -2,10 +2,12 @@
     src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
     font-family: "Suisse";
     font-weight: normal;
+    font-display: swap;
   }
   
   @font-face {
     src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff);
     font-family: "Suisse";
     font-weight: bold;
+    font-display: swap;
   }
